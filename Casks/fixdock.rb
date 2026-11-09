@@ -1,6 +1,6 @@
 cask "fixdock" do
-  version "1.0.8"
-  sha256 "bbb0b5dfcb10845a10dbb32c8eaf21f36879093d790b9f283ccd762eb3c25d65"
+  version "1.0.9"
+  sha256 "1346a25d20027a95145f937f3bdbfb996d2abbd4ce44ee3ed5d1b817143f7456"
 
   url "https://github.com/qaws81877/FixDock/releases/download/v#{version}/FixDock-#{version}.zip"
   name "FixDock"
